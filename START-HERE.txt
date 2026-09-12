@@ -1,0 +1,46 @@
+VENKATESH BEERAKA - COMPLETE PORTFOLIO PACKAGE
+
+Everything needed is included here. You do not need any earlier ZIP or folder.
+The old Jekyll/theme/bot files are not required by this portfolio.
+
+1. Extract the entire ZIP using Extract All. Do not open only index.html from
+   inside the compressed ZIP; its assets need to be extracted beside it.
+2. Open the extracted index.html in your browser to preview the website.
+   On Windows it may appear simply as "index" with a browser icon when file
+   extensions are hidden.
+3. Replace assets/img/profile.jpg with your latest JPEG if desired.
+4. The included resume is your uploaded masked PDF. Replace it with your
+   preferred public resume at assets/docs/venkatesh-beeraka-resume.pdf.
+5. In your new venbee/venbee.github.io repository, choose Add file > Upload files.
+   Upload ALL CONTENTS of this extracted folder into the repository root.
+   Do not upload the ZIP or the outer venkatesh-portfolio-complete folder.
+   Keep the assets and script folder structure intact.
+6. Include .nojekyll. This intentionally empty file may be hidden by your
+   file picker. If necessary, use GitHub's Add file > Create new file to create
+   a root file named .nojekyll (a blank line is fine).
+7. Commit to main. In Settings > Pages, choose Deploy from a branch,
+   main, /(root), then Save. Use the existing default branch if named differently.
+8. Wait for the Pages deployment and click Visit site in those settings.
+
+COMPLETE FILE LIST (10 files, including this guide)
+
+index.html
+assets/css/portfolio.css
+assets/js/portfolio.js
+assets/img/profile.jpg
+assets/img/favicon.svg
+assets/docs/venkatesh-beeraka-resume.pdf
+.nojekyll
+README.md
+script/check_portfolio.py
+START-HERE.txt
+
+There is deliberately no .github folder or inherited theme configuration.
+No npm installation or build is needed. Fonts come from the visitor's system.
+The script folder only contains an optional local file-check utility.
+README.md contains fuller setup, customization, and validation instructions.
+
+VALIDATION
+JavaScript syntax and local assets/links were checked. ZIP contents were checked
+against the source files. Visual browser testing was blocked in the creation
+environment; please review your local preview before publishing.
